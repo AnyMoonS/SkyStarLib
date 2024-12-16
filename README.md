@@ -50,3 +50,7 @@
 
 ## 匿名神秘人
 *为了不挂科*
+
+# 一些链接推荐
+## 英语四六级真题
+https://zhenti.burningvocabulary.cn/
