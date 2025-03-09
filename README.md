@@ -86,3 +86,6 @@
 # 一些链接推荐
 ## 英语四六级真题
 https://zhenti.burningvocabulary.cn/
+
+## 英语词达人自动答题
+https://github.com/ularch/Cidaren_Automatic_Answer
