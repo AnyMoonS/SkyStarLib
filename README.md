@@ -89,3 +89,6 @@ https://zhenti.burningvocabulary.cn/
 
 ## 英语词达人自动答题
 https://github.com/ularch/Cidaren_Automatic_Answer
+
+## We learn自动刷课
+https://github.com/SSmJaE/WELearnHelper
