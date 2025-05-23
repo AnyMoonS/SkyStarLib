@@ -92,3 +92,6 @@ https://github.com/ularch/Cidaren_Automatic_Answer
 
 ## We learn自动刷课
 https://github.com/SSmJaE/WELearnHelper
+
+## 校园跑解决方案
+https://anymoons.top/archives/316
