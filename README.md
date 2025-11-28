@@ -87,6 +87,9 @@
 *为了不挂科*
 
 # 一些链接推荐
+## 大学生线上安全教育学习
+https://github.com/hangone/WeBan
+
 ## 英语四六级真题
 https://zhenti.burningvocabulary.cn/
 
