@@ -104,3 +104,6 @@ https://github.com/SSmJaE/WELearnHelper
 
 ## 校园跑解决方案
 https://anymoons.top/archives/316
+
+## 智慧树自动刷课
+https://github.com/CXRunfree/Autovisor
